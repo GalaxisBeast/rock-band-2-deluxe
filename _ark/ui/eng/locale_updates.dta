@@ -2238,6 +2238,27 @@
 (loading_trivia1358 "Queens of the Stone Age reportedly opted not to be called \qKings of the Stone Age\q because they thought it would sound overly masculine.")
 (os_blnk
    " ")
+(os_dxsettings "TOURNAMENT SETTINGS")
+(motd_overshell_tip
+   "Welcome to Rock Band 2 Deluxe: Tournament Edition")
+(main_tour
+   "NOT TOURNEY LEGAL")
+(main_quickplay
+   "EXTRA BIG GONAGAHOOS BIG TITS IF YOU WILL")
+(main_store
+   "NOT WORKING STORE")
+(main_options
+   "SETTINGS FOR YOU FUCKING HACKERS")
+(main_training
+   "pwactiss mode uwuwuuwu")
+(easy
+   "ez NO")
+(medium
+   "mdeiium NO")
+(hard
+   "HARD PP")
+(expert
+   "TOURNEY")
 #include ../../dx/locale/dx_locale_updates.dta
 ;ALWAYS KEEP THIS LAST SO IT LOADS ON TOP OF EVERYTHING ELSE
 ;user added locale strings
