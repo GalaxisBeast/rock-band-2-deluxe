@@ -1098,9 +1098,11 @@
 (os_tex1 "Customize Track Theme")
 (os_sus "Sustains")
 (os_lanes "lanes")
-(os_hw_behavior "Highway Behavior")
-(os_strk_behavior "Streak Behavior")
-(os_warn_behavior "Low Health Behavior")
+(os_trkbhvr "Track Behavior")
+(os_hwbhvr "Highway Behavior")
+(os_strkbhvr "Streak Behavior")
+(os_warnbhvr "Low Health Behavior")
+(os_crowd_meter "Crowd Meter")
 (os_font "Font")
 (os_score "Score")
 (os_solobox "Solo Box")
@@ -1163,6 +1165,7 @@
 ;texture names
 (rb1 "Rock Band 1")
 (rb2 "Rock Band 2")
+(rb2_unused "RB2 Unused")
 (rb3 "Rock Band 3")
 (rb3_alt "RB3 Alt")
 (rb4 "Rock Band 4")
@@ -1564,6 +1567,7 @@
 (prefab_chelsea_carelli "Chelsea Carelli")
 (prefab_taylor_grace "Taylor Grace")
 (prefab_cameron "Cameron")
+(prefab_chimarky "ChiMarky")
 
 ;rb1 patches
 (patch_talbot
